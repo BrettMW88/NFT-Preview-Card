@@ -1,2 +1,2 @@
 # NFT-Preview-Card
-NFT Preview Card - Frontend mentor Challenge
+NFT Preview Card - Frontend Mentor Challenge
